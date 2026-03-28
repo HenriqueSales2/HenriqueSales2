@@ -45,7 +45,7 @@ Busco uma oportunidade de **estágio em tecnologia** para aplicar e evoluir meus
 | Projeto | Descrição | Tecnologia |
 |---|---|---|
 | [GerenciamentoFilmesAPI](https://github.com/HenriqueSales2/GerenciamentoFilmesAPI) | REST API com CRUD completo usando POO | Java / Spring Boot |
-| [cloud-ready-springboot-api](https://github.com/HenriqueSales2/main-project-spring-boot-java) | REST API com autenticação JWT, Swagger, testes JUnit 5 e Docker | Java / Spring Boot |
+| [cloud-ready-springboot-api](https://github.com/HenriqueSales2/main-project-spring-boot-java) | (em andamento) REST API com autenticação JWT, Swagger, testes JUnit 5 e Docker | Java / Spring Boot |
 
 ---
 
