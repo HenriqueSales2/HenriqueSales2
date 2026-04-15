@@ -21,13 +21,6 @@
 
 ---
 
-### Sobre
-
-Estudante de Análise e Desenvolvimento de Sistemas com foco em **desenvolvimento back-end**.  
-Busco uma oportunidade de **estágio em tecnologia** para aplicar e evoluir meus conhecimentos em projetos reais.
-
----
-
 ### Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
