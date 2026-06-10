@@ -37,8 +37,8 @@
 
 | Projeto | Descrição | Tecnologia |
 |---|---|---|
+| [springboot-gym-system](https://github.com/HenriqueSales2/springboot-gym-system) | API REST completa para gestão de academia, com Spring Boot, Flyway, JasperReports, upload de arquivos, envio de e-mails, testes automatizados e documentação OpenAPI | Java / Spring Boot |
 | [GerenciamentoFilmesAPI](https://github.com/HenriqueSales2/GerenciamentoFilmesAPI) | REST API com CRUD completo usando POO | Java / Spring Boot |
-| [spring-security-api](https://github.com/HenriqueSales2/spring-security-api) | API de autenticação e autorização com JWT, controle de acesso por roles e segurança com Spring Security | Java / Spring Boot |
 
 ---
 
